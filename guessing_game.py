@@ -1,7 +1,7 @@
 ''' Andy reference 
 '''
 
-secret_number = 6
+secret_number = 3
 guess_count = 0
 guess_limit = 3
 # conditions set

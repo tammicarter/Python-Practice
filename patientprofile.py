@@ -1,5 +1,5 @@
 # Defining strings within quotaions
-print("Tammi Ross")
+print("Tammi E. Ross")
 # Creating shapes (dog below)
 print('o----')
 print(' |||| ')

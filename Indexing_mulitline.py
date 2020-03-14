@@ -1,7 +1,7 @@
 
 # Printing multiLine strings using ''' '''
 email_response = ''' 
-Hi, User 
+Good Day, User 
 Thank you for testing out one of my 1st Python3 programs. 
 
 I hope to see you in the neaer future, as I progress as a software engineer 😉! 

@@ -1,5 +1,5 @@
 ''' 
-Ask user there weight (inpounds), 
+Calculate lbs to ks: Ask user there weight (inpounds), 
 convert it to Kilograms and print on the terminal.
 '''
 # # My Solution to the above Algorithm
